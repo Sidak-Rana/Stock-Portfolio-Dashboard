@@ -1,5 +1,5 @@
 # Stock Portfolio Dashboard
-
+![Stock Portfolio Dashboard](assets/dashboard.png)
 An interactive stock portfolio tracker built with Python and Streamlit. It pulls live prices via `yfinance` and visualizes gains/losses, sector allocation, returns, and correlation between holdings.
 
 **Live demo:** [portfolio-dashboard-app.streamlit.app](https://portfolio-dashboard-app.streamlit.app)
